@@ -1,1 +1,2 @@
 # Bankist
+pintu kandara
